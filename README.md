@@ -1,2 +1,2 @@
 Hibernate:-Hibernate is a framework to develop high-skill database applications.
-Using hibernate Create Following Operation.
+Hibernate is an Open-Source, lightweight, ORM framework which can be used to develop persistence logic.
